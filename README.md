@@ -59,6 +59,7 @@ pip install beautifulsoup4 requests langchain
 ## 💡 Usage
 
 ```bash
+setx GROQ_API_KEY <Your API Key>
 python scraper.py
 python smmarizer.py
 ```
